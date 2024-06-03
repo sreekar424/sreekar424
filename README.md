@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sreekar424
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning frond end developing tools 
-- 💞️ I’m looking to build some websites .
+- 🌱 I’m currently learning cloud tools 
+- 💞️ I’m looking to build some vpcs .
   
 
 <!---
